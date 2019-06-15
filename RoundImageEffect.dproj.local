@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/06/11 12:25:05.000.163,=D:\Documentos\Embarcadero Projects\Unit2.pas</Transaction>
+    <Transaction>2019/06/14 22:49:43.295,=D:\Documentos\Embarcadero Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/14 22:49:59.677,D:\Documentos\Embarcadero Projects\10.3 Apps\RoundImage Effect\untApp.fmx=D:\Documentos\Embarcadero Projects\Unit1.fmx</Transaction>
+    <Transaction>2019/06/14 22:49:59.677,D:\Documentos\Embarcadero Projects\10.3 Apps\RoundImage Effect\untApp.pas=D:\Documentos\Embarcadero Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/14 22:50:16.599,D:\Documentos\Embarcadero Projects\10.3 Apps\RoundImage Effect\RoundImageEffect.dproj=D:\Documentos\Embarcadero Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
